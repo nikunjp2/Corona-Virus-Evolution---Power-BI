@@ -2,7 +2,7 @@
 
 # CoronaVirus - Evolution Dashboard
 
-This repository contains a Tableau dashboard that provides a comprehensive analysis of the Covid-19 pandemic's evolution, including key metrics, trends, forecasts, and comparisons with other viruses.
+This repository contains a PowerBI dashboard that provides a comprehensive analysis of the Covid-19 pandemic's evolution, including key metrics, trends, forecasts, and comparisons with other viruses.
 
 ## Overview
 
@@ -24,7 +24,7 @@ The data used in this dashboard is sourced from various reliable sources and is 
 
 ## Usage
 
-To view and interact with the dashboard, you can download the Tableau file from this repository and open it using the Tableau Desktop application or the Tableau Online platform.
+To view and interact with the dashboard, you can download the PowerBI file from this repository and open it using the PowerBI Desktop application or the PowerBI Online platform.
 
 ## Contributing
 
